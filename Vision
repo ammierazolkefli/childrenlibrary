@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> VISION & MISSION </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        section {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            color: #2370b9;
+        }
+
+        h2 {
+            color: #2679c7;
+        }
+
+        p {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>ABOUT US</h1>
+    </header>
+
+    <section>
+        <h2>Our Goals</h2>
+        <p>- To prepare a generation able to face the challenges imposed by the digital age.
+        <p>- To enhance children artistic creativity.
+        <p>- To provide content in various formats, including e-books, audiobooks, interactive stories, and educational infographics, to accommodate different learning styles and preferences.</p>
+    </section>
+
+    <section>
+        <h2>Our Mission</h2>
+        <p>Our mission of the Children's Library is not only preparing children for using the main library in the future, but also providing educational and cultural resources for them. It aims at developing their reading, research and creativity skills through different programs and activities.
+</p>
+    </section>
+</body>
+</html>
